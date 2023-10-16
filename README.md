@@ -1,4 +1,4 @@
-![image](https://github.com/asd311sw/Android_CleanArchitecture_MVVM/assets/59782980/6f0aab9e-571d-4f4c-b013-151e40d8e2b9)# Android_CleanArchitecture_MVVM
+# Android_CleanArchitecture_MVVM
 this is a example about MVVM base on CleanArchitecture
 
 
