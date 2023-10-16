@@ -3,13 +3,13 @@ this is a example about MVVM base on CleanArchitecture
 
 
 
-[CleanArchitecture]
+## CleanArchitecture
 
 ![스크린샷 2023-10-16 15-06-19](https://github.com/asd311sw/Android_CleanArchitecture_MVVM/assets/59782980/62425c6c-b436-424f-a105-b26994ebe38f)
 
 https://medium.com/android-dev-hacks/detailed-guide-on-android-clean-architecture-9eab262a9011
 
-[MVVM}
+## MVVM
 
 ![스크린샷 2023-10-16 15-06-50](https://github.com/asd311sw/Android_CleanArchitecture_MVVM/assets/59782980/642fad56-2c6a-46d0-b312-667148c50822)
 
